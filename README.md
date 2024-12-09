@@ -92,14 +92,8 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Marc Marais](https://github.com/marcmarais)                                                | mmarias@sandtech.com
-| [James Beta](https://github.com/James-Beta)                                                                                  | jbeta@sandtech.com
-| [Oladare Adekunle](https://github.com/DareSandtech)                                                                            | oadekunle@sandtech.com
-| [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
+| [Lamel Kekana](https://github.com/lamelkekana)                                              | Lamel44@gmail.com
+| [Lebogang Swarathle](https://github.com/LeboSwaratlhe)                                      | lebogangswaratlhe@gmail.com
+| [Lebogang Letsoalo](https://github.com/LeboL-moriski)                                       | lebom.letsoalo@gmail.com
+| [Vrishti Singh](https://github.com/VrishtiSingh)                                            | vrishtisingh98@gmail.com
 
-
-
-#### Additional Resources to create a README file:
-- [Make a README](https://www.makeareadme.com/)
-- [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
